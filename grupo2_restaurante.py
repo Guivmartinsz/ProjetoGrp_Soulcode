@@ -1,5 +1,3 @@
-"""
-
 print('-'*30, ' \n \033[1;35;107m  Bem Vindos ao Codeback \033[0m \n' ,'-'*30)
 #DEFININDO VARIÁVEIS
 total=total1=0
